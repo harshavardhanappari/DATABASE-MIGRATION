@@ -1,0 +1,5 @@
+SELECT * FROM people
+INTO OUTFILE '/tmp/mysql_people.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
