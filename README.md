@@ -22,10 +22,10 @@ MENTOR : NEELA SANTOSH
 | Python (pandas)       | Simulated migration            |
 
 Description:
-📝 Description of the MySQL to PostgreSQL Migration Project
+Description of the MySQL to PostgreSQL Migration Project
 This project demonstrates how to migrate data from a MySQL database to a PostgreSQL database, ensuring that the data remains accurate and consistent. The approach uses SQL scripts and a simple CSV-based migration method, making it accessible to beginners and applicable in real-world scenarios.
 
-👨‍💻 Step-by-Step Breakdown
+Step-by-Step Breakdown
 1. Setting Up MySQL:
 
 In the MySQL section, we first create a database named south_india_db. Inside it, we define a basic table called people with three fields: id (an integer), name (a string), and city (a string). We then populate this table with a few sample records using standard SQL INSERT commands. This helps demonstrate how to build and manage structured data in a relational database.
