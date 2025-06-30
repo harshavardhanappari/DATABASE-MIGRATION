@@ -1,0 +1,14 @@
+Migration Summary: MySQL ➜ PostgreSQL
+
+Source: MySQL (south_india_db.people)
+Target: PostgreSQL (south_india_db.people)
+
+Exported 3 rows using SELECT INTO OUTFILE
+Imported using PostgreSQL COPY command
+
+Data Integrity Check: Passed
+  - Row Count: 3
+  - Fields Match: Yes
+  - Sample: Sathish from Madurai
+
+No errors or data loss observed.
